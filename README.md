@@ -1,3 +1,3 @@
 5GCore Virtual Network Functions
 
-Information: Core5g6g@gmail.com
+Information: Core5G6G@gmail.com
